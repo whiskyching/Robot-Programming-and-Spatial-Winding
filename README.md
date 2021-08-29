@@ -7,6 +7,7 @@ This Research follows an integrated co-design methodology in which geometry and 
 ---
 ![image](https://user-images.githubusercontent.com/65818525/131266705-18578778-9db3-4c5f-a1b5-2abcc62489bc.png)
 
+
 ## Fiber-to-fiber Node
 ![image](https://user-images.githubusercontent.com/65818525/131268321-446a84ac-e33d-47c2-b654-c06cd811aa97.png)
 ---
@@ -21,5 +22,6 @@ This Research follows an integrated co-design methodology in which geometry and 
 ![image](https://user-images.githubusercontent.com/65818525/131268370-c9c2bb7f-011a-493a-81bf-e937aad8aee4.png)
 ---
 
-
+## Coreless Filament Winding
+![Webp net-gifmaker (13)](https://user-images.githubusercontent.com/65818525/131268443-2cbfce28-f5ab-460f-b4c4-4dbc0758d84d.gif)
 
