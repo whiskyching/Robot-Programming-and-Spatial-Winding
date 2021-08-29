@@ -6,6 +6,19 @@ This Research follows an integrated co-design methodology in which geometry and 
 ![image](https://user-images.githubusercontent.com/65818525/131266695-810650b5-df53-44e4-8e8f-3187087328bb.png)
 ---
 ![image](https://user-images.githubusercontent.com/65818525/131266705-18578778-9db3-4c5f-a1b5-2abcc62489bc.png)
+
+## Fiber-to-fiber Node
+![image](https://user-images.githubusercontent.com/65818525/131268321-446a84ac-e33d-47c2-b654-c06cd811aa97.png)
+---
+
+## Different Syntax generate different geometries
+![image](https://user-images.githubusercontent.com/65818525/131268337-5e165235-1699-4319-869b-62ecf85cf37f.png)
+---
+
+## End-Effector Concept Design
+![image](https://user-images.githubusercontent.com/65818525/131268354-488cc232-06f2-434f-acbf-3898d2b35603.png)
+---
+![image](https://user-images.githubusercontent.com/65818525/131268370-c9c2bb7f-011a-493a-81bf-e937aad8aee4.png)
 ---
 
 
