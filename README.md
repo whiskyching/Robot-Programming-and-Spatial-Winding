@@ -22,6 +22,6 @@ This Research follows an integrated co-design methodology in which geometry and 
 ![image](https://user-images.githubusercontent.com/65818525/131268370-c9c2bb7f-011a-493a-81bf-e937aad8aee4.png)
 ---
 
-## Coreless Filament Winding
+## Coreless Filament Winding Path Planning & Simulation
 ![Webp net-gifmaker (13)](https://user-images.githubusercontent.com/65818525/131268443-2cbfce28-f5ab-460f-b4c4-4dbc0758d84d.gif)
 
