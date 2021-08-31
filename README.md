@@ -12,6 +12,7 @@ This Research follows an integrated co-design methodology in which geometry and 
 - KUKA KR125
 - Customized End Effector
 
+
 ## Comparison of filament winding methods: 
 ![image](https://user-images.githubusercontent.com/65818525/131266690-a51b39de-0803-46b1-a545-d615b1546258.png)
 ---
